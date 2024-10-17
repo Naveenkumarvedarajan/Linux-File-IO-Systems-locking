@@ -19,7 +19,7 @@ Execute the C Program for the desired output.
 # PROGRAM:
 
 ## 1.To Write a C program that illustrates files copying 
-c
+
 #include <sys/stat.h>
 #include <fcntl.h>
 #include <stdlib.h>
@@ -40,7 +40,7 @@ int main() {
 
 
 ## 2.To Write a C program that illustrates files locking
-c
+
 #include <fcntl.h>
 #include <stdio.h>
 #include <string.h>
